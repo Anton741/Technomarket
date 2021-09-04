@@ -116,7 +116,7 @@ div:focus input:focus {
 }
 
 .icon_phone {
-  background: url("/img/icon-phone.svg");
+  background: url("img/icon-phone.svg");
   position: absolute;
   top: 15px;
   left: 9px;
@@ -221,7 +221,7 @@ div:focus input:focus {
   position: absolute;
   top: 0;
   right: 0;
-  background: url("/img/rectangle.svg");
+  background: url("img/rectangle.svg");
   width: 68px;
   height: 68px;
 }
@@ -236,34 +236,34 @@ div:focus input:focus {
   color: #f2f2f2;
 }
 .materials .menu_icon {
-  background-image: url("/img/icon-backet.svg");
+  background-image: url("img/icon-backet.svg");
 }
 .tools {
   background: #3bbce3;
 }
 .tools .menu_icon {
-  background-image: url("/img/icon-drill.svg");
+  background-image: url("img/icon-drill.svg");
 }
 
 .tecknicks {
   background: #dc91d8;
 }
 .tecknicks .menu_icon {
-  background-image: url("/img/icon-tractor.svg");
+  background-image: url("img/icon-tractor.svg");
 }
 
 .sales {
   background: #8ed78f;
 }
 .sales .menu_icon {
-  background-image: url("/img/icon-discount.svg");
+  background-image: url("img/icon-discount.svg");
 }
 
 .delivery {
   background: #ffc047;
 }
 .delivery .menu_icon {
-  background-image: url("/img/icon-delivery.svg");
+  background-image: url("img/icon-delivery.svg");
 }
 
 /* SLIDER */
@@ -471,7 +471,7 @@ div:focus input:focus {
 }
 .shadow_line {
   position: absolute;
-  background: url("/img/shadowline.png");
+  background: url("img/shadowline.png");
   width: 10px;
   height: 279px;
   top: -24px;
@@ -502,7 +502,7 @@ div:focus input:focus {
 
 .service_icon {
   position: absolute;
-  background: url("/img/service-delivery.png");
+  background: url("img/service-delivery.png");
   background-repeat: no-repeat;
   top: 21px;
   right: 0;
@@ -943,7 +943,7 @@ div:focus input:focus {
   position: absolute;
   top:-3px;
   left: 2px;
-  background: url("../img/checkmark.svg") no-repeat;
+  background: url("..img/checkmark.svg") no-repeat;
   z-index: 2;
   opacity: .7;
 }
