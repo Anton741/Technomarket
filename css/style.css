@@ -116,7 +116,7 @@ div:focus input:focus {
 }
 
 .icon_phone {
-  background: url("../img/icon-phone.svg");
+  background: url("./img/icon-phone.svg");
   position: absolute;
   top: 15px;
   left: 9px;
