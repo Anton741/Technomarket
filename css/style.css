@@ -116,7 +116,7 @@ div:focus input:focus {
 }
 
 .icon_phone {
-  background: url("img/icon-phone.svg");
+  background: url("../img/icon-phone.svg");
   position: absolute;
   top: 15px;
   left: 9px;
@@ -221,7 +221,7 @@ div:focus input:focus {
   position: absolute;
   top: 0;
   right: 0;
-  background: url("img/rectangle.svg");
+  background: url("../img/rectangle.svg");
   width: 68px;
   height: 68px;
 }
@@ -236,27 +236,27 @@ div:focus input:focus {
   color: #f2f2f2;
 }
 .materials .menu_icon {
-  background-image: url("img/icon-backet.svg");
+  background-image: url("../img/icon-backet.svg");
 }
 .tools {
   background: #3bbce3;
 }
 .tools .menu_icon {
-  background-image: url("img/icon-drill.svg");
+  background-image: url("../img/icon-drill.svg");
 }
 
 .tecknicks {
   background: #dc91d8;
 }
 .tecknicks .menu_icon {
-  background-image: url("img/icon-tractor.svg");
+  background-image: url(".//img/icon-tractor.svg");
 }
 
 .sales {
   background: #8ed78f;
 }
 .sales .menu_icon {
-  background-image: url("img/icon-discount.svg");
+  background-image: url("/img/icon-discount.svg");
 }
 
 .delivery {
